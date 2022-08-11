@@ -1,0 +1,80 @@
+{
+  "M10Robot:BalanceCurrentsPower": {
+    "NAME": "Balance Currents",
+    "DESCRIPTIONS": ["Whenever you apply a debuff, gain #b"," #yBlock."]
+  },
+  "M10Robot:ExtrapolatePower": {
+    "NAME": "Extrapolate",
+    "DESCRIPTIONS": ["Whenever you #yExtract a card, #yOverclock it #b"," time."," times."]
+  },
+  "M10Robot:FollowupPower": {
+    "NAME": "Next Card Overclock",
+    "DESCRIPTIONS": ["#yOverclock the next card you play #b",
+                    " time."," times.",
+                    "#yOverclock the next #b"," cards you play #b"]
+  },
+  "M10Robot:EvasionDownPower": {
+    "NAME": "Evasion Down",
+    "DESCRIPTIONS": ["Takes #b", " additional damage from all sources this turn."]
+  },
+  "M10Robot:ImaginaryPower": {
+    "NAME": "Imaginary Numbers",
+    "DESCRIPTIONS": ["This turn, whenever you draw a card, randomize its cost between #b0 and #b1.",
+                    "For #b"," turns, whenever you draw a card, randomize its cost between #b0 and #b1."]
+  },
+  "M10Robot:OverdrivePower": {
+    "NAME": "Overdrive",
+    "DESCRIPTIONS": ["At the start of your turn, #yOverclock all cards in your hand by #b","%."]
+  },
+  "M10Robot:PowerSavingsPower": {
+    "NAME": "Power Savings",
+    "DESCRIPTIONS": ["At the start of your turn, gain #b"," #yEnergy."]
+  },
+  "M10Robot:RAMUpgradePower": {
+    "NAME": "RAM Upgrade",
+    "DESCRIPTIONS": ["Whenever you #yChannel an #yOrb, #yUpgrade it #b"," time."," times."]
+  },
+  "M10Robot:RecoilPower": {
+    "NAME": "Recoil",
+    "DESCRIPTIONS": [""]
+  },
+  "M10Robot:RecoveryModePower": {
+    "NAME": "Recovery Mode",
+    "DESCRIPTIONS": ["At the end of your turn, gain #b"," #yBlock if you have unspent energy."]
+  },
+  "M10Robot:ReflectiveShellPower": {
+    "NAME": "Reflective Shell",
+    "DESCRIPTIONS": ["Fully blocked attacks are reflected onto the attacker.",
+                    "Fully blocked attacks are reflected onto the attacker #b"," times."]
+  },
+  "M10Robot:RewindPower": {
+    "NAME": "Rewind",
+    "DESCRIPTIONS": ["The first time you lose #yBlock each turn, gain that much #yBlock next turn.",
+                    "The first #b"," times you lose #yBlock each turn, gain that much #yBlock next turn."]
+  },
+  "M10Robot:SpikesPower": {
+    "NAME": "Spikes",
+    "DESCRIPTIONS": ["When attacked, deals #b"," damage back. At the start of your turn, lose Spikes if you were attacked last turn."]
+  },
+  "M10Robot:SpikyPlatingPower": {
+    "NAME": "Spiky Plating",
+    "DESCRIPTIONS": ["Whenever you play a card, gain #b"," #ySpikes."]
+  },
+  "M10Robot:TargetingSystemPower": {
+    "NAME": "Heuristics",
+    "DESCRIPTIONS": ["Whenever you #yChannel and Orb, apply #b", " #yLock-On to a random enemy."]
+  },
+  "M10Robot:TinkerPower": {
+    "NAME": "Tinkering",
+    "DESCRIPTIONS": ["#yUpgrade the next #yOrb you #yChannel #b"," time"," times."]
+  },
+  "M10Robot:TurboPower": {
+    "NAME": "Turbo Mode",
+    "DESCRIPTIONS": ["At the beginning of your next turn, draw an additional card and gain [E] .",
+                    "At the beginning of your next #b"," turns, draw an additional card and gain [E] ."]
+  },
+  "M10Robot:WideAnglePower": {
+    "NAME": "Wide Angle",
+    "DESCRIPTIONS": ["When you play an Attack, #yBits attack #b"," additional time."," additional times."]
+  }
+}
